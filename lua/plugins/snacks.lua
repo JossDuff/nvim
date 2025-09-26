@@ -8,6 +8,8 @@ return {
 			sources = {
 				explorer = {
 					layout = { layout = { position = "right" } },
+					hidden = true,
+					ignored = true,
 				},
 			},
 		},
